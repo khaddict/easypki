@@ -673,7 +673,7 @@ cert_main(){
   CA=""
   ACT=""
   NAME=""
-  DAYS=365
+  DAYS=1825
   KEY_BITS=2048
   SANS=()
   REPLACE=0
